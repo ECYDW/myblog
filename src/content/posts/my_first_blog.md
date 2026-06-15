@@ -8,7 +8,7 @@ draft: false
 description: "记录第一次搭建个人博客的全过程，从选主题、改配置到部署上线，踩过的坑和心得都在这里了"
 tags: ["建站", "博客", "Mizuki主题", "心得"]
 category: "技术分享"
-image: "./cover.webp"
+image: "./cover1.webp"
 ---
 
 # 从零搭建个人博客的碎碎念
